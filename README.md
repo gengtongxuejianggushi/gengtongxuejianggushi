@@ -87,27 +87,62 @@
 
 **举证材料源自公开网络/公示材料**：
 
-附件1：https://ieeexplore.ieee.org/abstract/document/4840218  (Attachments/附件1.pdf)
+### 举证材料源自公开网络/公示材料
 
-附件2：https://school.eecs.wsu.edu/documents/2020/07/distributed-two-level-pmu-only-linear-state-estimator.pptx （2022年可访问下载）  (Attachments/附件2.pdf)
+附件1：
+[原始链接](https://ieeexplore.ieee.org/abstract/document/4840218)
+|
+[下载附件PDF](Attachments/附件1.pdf)
 
-附件3：https://ieeexplore.ieee.org/document/6162822  (Attachments/附件3.pdf)
+附件2：
+[原始链接](https://school.eecs.wsu.edu/documents/2020/07/distributed-two-level-pmu-only-linear-state-estimator.pptx)
+|
+[下载附件PDF](Attachments/附件2.pdf)
 
-附件4：https://ieeexplore.ieee.org/document/6039666  (Attachments/附件4.pdf)
+附件3：
+[原始链接](https://ieeexplore.ieee.org/document/6162822)
+|
+[下载附件PDF](Attachments/附件3.pdf)
 
-附件5：https://www.e-cigre.org/publications/detail/504-voltage-and-var-support-in-system-operation.html  (Attachments/附件5.pdf)
+附件4：
+[原始链接](https://ieeexplore.ieee.org/document/6039666)
+|
+[下载附件PDF](Attachments/附件4.pdf)
 
-附件6：https://ieeexplore.ieee.org/document/8369451  (Attachments/附件6.pdf)
+附件5：
+[原始链接](https://www.e-cigre.org/publications/detail/504-voltage-and-var-support-in-system-operation.html)
+|
+[下载附件PDF](Attachments/附件5.pdf)
 
-附件7：https://www.fanshule.com/d/0016mbuted5z.html  (Attachments/附件7.pdf)
+附件6：
+[原始链接](https://ieeexplore.ieee.org/document/8369451)
+|
+[下载附件PDF](Attachments/附件6.pdf)
 
-附件8：https://resourcecenter.ieee-pes.org/publications/technical-reports/pes_tr_tr118_eicc_122723#  (Attachments/附件8.pdf)
+附件7：
+[原始链接](https://www.fanshule.com/d/0016mbuted5z.html)
+|
+[下载附件PDF](Attachments/附件7.pdf)
 
-附件9：2023年院士申报公示材料  (Attachments/附件9.pdf)
+附件8：
+[原始链接](https://resourcecenter.ieee-pes.org/publications/technical-reports/pes_tr_tr118_eicc_122723#)
+|
+[下载附件PDF](Attachments/附件8.pdf)
 
-附件10：https://www.tsinghua.edu.cn/info/1175/120356.htm （2025年7月31日版本）  (Attachments/附件10.pdf)
+附件9：
+2023年院士申报公示材料
+|
+[下载附件PDF](Attachments/附件9.pdf)
 
-附件11：2025年院士申报公示材料  (Attachments/附件11.pdf)
+附件10：
+[原始链接](https://www.tsinghua.edu.cn/info/1175/120356.htm)
+|
+[下载附件PDF](Attachments/附件10.pdf)
+
+附件11：
+2025年院士申报公示材料
+|
+[下载附件PDF](Attachments/附件11.pdf)
 
 <br><br>
 
