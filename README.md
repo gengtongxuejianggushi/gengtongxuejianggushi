@@ -87,8 +87,6 @@
 
 **举证材料源自公开网络/公示材料**：
 
-### 举证材料源自公开网络/公示材料
-
 附件1：
 [原始链接](https://ieeexplore.ieee.org/abstract/document/4840218)
 |
